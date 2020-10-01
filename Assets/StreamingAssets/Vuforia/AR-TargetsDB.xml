@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="prism2" size="25.000000 15.608056" />
+    <ImageTarget name="webpage2" size="15.000000 22.898384" />
+    <ImageTarget name="webpage" size="15.000000 16.815416" />
+    <ImageTarget name="tree" size="20.000000 14.779195" />
+    <ImageTarget name="turning" size="20.000000 7.026653" />
+    <ImageTarget name="sun" size="20.000000 18.287037" />
+    <ImageTarget name="sort" size="15.000000 4.726562" />
+    <ImageTarget name="periodic2" size="25.000000 14.778646" />
+    <ImageTarget name="polar" size="15.000000 19.482071" />
+    <ImageTarget name="periodic" size="25.000000 16.521479" />
+    <ImageTarget name="molecules" size="20.000000 16.119308" />
+    <ImageTarget name="materials" size="15.000000 19.724409" />
+    <ImageTarget name="manhattan" size="20.000000 9.791531" />
+    <ImageTarget name="magnet_lines" size="20.000000 10.949368" />
+    <ImageTarget name="magnet" size="20.000000 16.334106" />
+    <ImageTarget name="machine" size="20.000000 14.711347" />
+    <ImageTarget name="layers" size="20.000000 16.847290" />
+    <ImageTarget name="kinetic" size="15.000000 11.627716" />
+    <ImageTarget name="insertion" size="20.000000 17.950964" />
+    <ImageTarget name="dc-motor" size="15.000000 12.171515" />
+    <ImageTarget name="dc" size="20.000000 9.207208" />
+    <ImageTarget name="compressor" size="20.000000 9.571383" />
+    <ImageTarget name="cars" size="15.000000 13.398347" />
+    <ImageTarget name="bike-gears" size="20.000000 10.636574" />
+    <ImageTarget name="atmosphere" size="15.000000 14.629466" />
+    <ImageTarget name="mesh" size="15.000000 10.486371" />
+    <ImageTarget name="gears" size="15.000000 12.427946" />
+    <ImageTarget name="prism" size="25.000000 8.294779" />
+    <ImageTarget name="topology" size="8.000000 10.390438" />
+  </Tracking>
+</QCARConfig>
